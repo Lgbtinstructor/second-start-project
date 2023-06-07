@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "chair",
+      "price": 15000,
+      "imgUrl": "/img/chair.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Deck",
+      "price": 5000,
+      "imgUrl": "/img/deck.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shampoo",
+      "price": 990,
+      "imgUrl": "/img/shampoo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 1400000,
+      "imgUrl": "/img/car.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yaz",
+        "price": 1400,
+        "imgUrl": "/img/yaz.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Horse",
+        "price": 500000,
+        "imgUrl": "/img/mustang.jpg"
+      }
+  ]
